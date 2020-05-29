@@ -1,2 +1,2 @@
-# Polticalfacebookdatabase
+# Politicalfacebookdatabase
 politicalfacebookdatabase
